@@ -187,3 +187,5 @@ Consider using [`MergingUpdateQueue`](%gh-ic%/platform/ide-core/src/com/intellij
 #### VFS Events
 
 Massive batches of VFS events can be pre-processed in the background, see [`AsyncFileListener`](%gh-ic%/platform/core-api/src/com/intellij/openapi/vfs/AsyncFileListener.java) (2019.2 or later).
+
+1
